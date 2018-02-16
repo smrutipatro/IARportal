@@ -1,6 +1,7 @@
 # IARportal
 ## Guidelines for Smruti
-- Install node and npm
-- Run ``` npm install ```
-- Run ``` npm start ```
-- Edit the views folder
+- install node and npm
+- run ``` npm install ```
+- run ``` npm start ```
+- check url [http://localhost:9000](http://localhost:9000)
+- edit the views folder
